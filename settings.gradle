@@ -1,1 +1,2 @@
-rootProject.name = 'common-model'
+rootProject.name = 'tracing-jaeger-k8s'
+include 'common-model', 'library-service', 'author-service', 'book-service'
